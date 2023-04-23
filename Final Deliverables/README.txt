@@ -3,6 +3,7 @@
    * It contains the test cases with predicted output of the chatbot
 * checkpoint_runf.tar
    * This is the fine tuned model checkpoints in tar format
+   * Download checkpoint_runf.tar from https://drive.google.com/file/d/1FNYp4ftJLtxny5EQA047IiwfykKIZw64/view?usp=sharing
 * Digital_counselling_chatbot.ipynb
    * Python notebook which contains code to finetune GPT2 and use interactive chat
 * Test.csv
