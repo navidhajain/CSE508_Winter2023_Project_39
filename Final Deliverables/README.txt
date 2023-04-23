@@ -26,8 +26,9 @@
 
 
 Steps to use the interactive chat:
+* Download checkpoint_runf.tar from https://drive.google.com/file/d/1FNYp4ftJLtxny5EQA047IiwfykKIZw64/view?usp=sharing
 * Untar the checkpoint file using the following command
-   * tar -xvf checkpoint_runf.tar\
+   * tar -xvf checkpoint_runf.tar
 * Open the Digital_counselling_chatbot.ipynb
    * Run the first cell to import all the requirements 
    * Run the 5th cell to load the model
